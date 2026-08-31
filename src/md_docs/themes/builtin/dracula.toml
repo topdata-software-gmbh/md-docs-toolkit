@@ -1,0 +1,29 @@
+name = "dracula"
+dark = true
+description = "Dracula — purple/cyan dark theme"
+pygments_theme = "dracula"
+
+[styles]
+heading = "bold #FF79C6"
+link = "bold underline #8BE9FD"
+link_url = "dim #8BE9FD"
+code_block = "#50FA7B"
+block_quote = "italic #6272A4"
+list_item = "#FF79C6"
+strong = "bold #F8F8F2"
+emphasis = "italic #F1FA8C"
+hr = "#44475A"
+muted = "#6272A4"
+table_header = "bold #BD93F9"
+table_border = "#44475A"
+panel_border = "#44475A"
+panel_title = "bold #BD93F9"
+
+[prompt_styles]
+question = "#F8F8F2 bold"
+pointer = "#FF79C6 bold"
+highlighted = "#282A36 bg:#FF79C6 bold"
+instruction = "#6272A4"
+text = "#F8F8F2"
+answer = "#50FA7B bold"
+questionmark = "#FF79C6 bold"

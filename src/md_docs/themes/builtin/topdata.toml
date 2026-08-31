@@ -1,0 +1,31 @@
+# TopData corporate brand — extracted from topdata-assets/themes/topdata-tui-theme.md
+# (blue primary #5085A9, purple accent #7D0293, dark surfaces #101010/#202020/#233140).
+name = "topdata"
+dark = true
+description = "TopData corporate brand — blue primary, purple accent"
+pygments_theme = "monokai"
+
+[styles]
+heading = "bold #5FA2D0"
+link = "bold underline #82BDE5"
+link_url = "dim #5FA2D0"
+code_block = "#B823D3"
+block_quote = "italic #A0B0C0"
+list_item = "#5085A9"
+strong = "bold #FFFFFF"
+emphasis = "italic #B823D3"
+hr = "#233140"
+muted = "#607080"
+table_header = "bold #5FA2D0"
+table_border = "#233140"
+panel_border = "#233140"
+panel_title = "bold #5FA2D0"
+
+[prompt_styles]
+question = "#5FA2D0 bold"
+pointer = "#5085A9 bold"
+highlighted = "#101010 bg:#5085A9 bold"
+instruction = "#A0B0C0"
+text = "#FFFFFF"
+answer = "#B823D3 bold"
+questionmark = "#5085A9 bold"

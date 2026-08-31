@@ -1,0 +1,29 @@
+name = "solarized-dark"
+dark = true
+description = "Solarized Dark"
+pygments_theme = "solarized-dark"
+
+[styles]
+heading = "#268bd2"
+link = "#2aa198"
+link_url = "dim #2aa198"
+code_block = "#859900"
+block_quote = "italic #586e75"
+list_item = "#268bd2"
+strong = "bold #93a1a1"
+emphasis = "italic #b58900"
+hr = "#073642"
+muted = "#586e75"
+table_header = "bold #d33682"
+table_border = "#073642"
+panel_border = "#073642"
+panel_title = "bold #268bd2"
+
+[prompt_styles]
+question = "#839496 bold"
+pointer = "#268bd2 bold"
+highlighted = "#002b36 bg:#268bd2 bold"
+instruction = "#586e75"
+text = "#839496"
+answer = "#859900 bold"
+questionmark = "#268bd2 bold"

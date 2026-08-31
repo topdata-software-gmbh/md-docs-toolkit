@@ -1,0 +1,30 @@
+# Default theme; must always exist (fallback target).
+name = "monokai"
+dark = true
+description = "Monokai (default) — high-contrast dark, magenta/orange accents"
+pygments_theme = "monokai"
+
+[styles]
+heading = "bold #F92672"
+link = "bold underline #66D9EF"
+link_url = "dim #66D9EF"
+code_block = "#A6E22E"
+block_quote = "italic #75715E"
+list_item = "#F92672"
+strong = "bold #F8F8F2"
+emphasis = "italic #E6DB74"
+hr = "#49483E"
+muted = "#75715E"
+table_header = "bold #AE81FF"
+table_border = "#49483E"
+panel_border = "#49483E"
+panel_title = "bold #66D9EF"
+
+[prompt_styles]
+question = "#F8F8F2 bold"
+pointer = "#F92672 bold"
+highlighted = "#272822 bg:#F92672 bold"
+instruction = "#75715E"
+text = "#F8F8F2"
+answer = "#A6E22E bold"
+questionmark = "#F92672 bold"

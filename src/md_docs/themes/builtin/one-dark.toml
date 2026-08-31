@@ -1,0 +1,29 @@
+name = "one-dark"
+dark = true
+description = "One Dark — Atom-inspired dark theme"
+pygments_theme = "one-dark"
+
+[styles]
+heading = "#e06c75"
+link = "#61afef"
+link_url = "dim #61afef"
+code_block = "#98c379"
+block_quote = "italic #5c6370"
+list_item = "#e06c75"
+strong = "bold #abb2bf"
+emphasis = "italic #e5c07b"
+hr = "#3e4451"
+muted = "#5c6370"
+table_header = "bold #c678dd"
+table_border = "#3e4451"
+panel_border = "#3e4451"
+panel_title = "bold #61afef"
+
+[prompt_styles]
+question = "#abb2bf bold"
+pointer = "#e06c75 bold"
+highlighted = "#282c34 bg:#e06c75 bold"
+instruction = "#5c6370"
+text = "#abb2bf"
+answer = "#98c379 bold"
+questionmark = "#e06c75 bold"

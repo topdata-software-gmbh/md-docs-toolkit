@@ -1,0 +1,29 @@
+name = "github-dark"
+dark = true
+description = "GitHub Dark"
+pygments_theme = "github-dark"
+
+[styles]
+heading = "#58A6FF"
+link = "bold #58A6FF"
+link_url = "dim #58A6FF"
+code_block = "#7EE787"
+block_quote = "italic #8b949e"
+list_item = "#79c0ff"
+strong = "bold #c9d1d9"
+emphasis = "italic #d2a8ff"
+hr = "#21262d"
+muted = "#8b949e"
+table_header = "bold #79c0ff"
+table_border = "#30363d"
+panel_border = "#30363d"
+panel_title = "bold #58A6FF"
+
+[prompt_styles]
+question = "#c9d1d9 bold"
+pointer = "#58A6FF bold"
+highlighted = "#0d1117 bg:#58A6FF bold"
+instruction = "#8b949e"
+text = "#c9d1d9"
+answer = "#7EE787 bold"
+questionmark = "#58A6FF bold"

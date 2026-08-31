@@ -1,0 +1,29 @@
+name = "nord"
+dark = true
+description = "Nord — frosty arctic palette"
+pygments_theme = "nord"
+
+[styles]
+heading = "#88C0D0"
+link = "bold #88C0D0"
+link_url = "dim #81A1C1"
+code_block = "#A3BE8C"
+block_quote = "italic #616E88"
+list_item = "#88C0D0"
+strong = "bold #ECEFF4"
+emphasis = "italic #EBCB8B"
+hr = "#3B4252"
+muted = "#616E88"
+table_header = "bold #B48EAD"
+table_border = "#3B4252"
+panel_border = "#3B4252"
+panel_title = "bold #B48EAD"
+
+[prompt_styles]
+question = "#D8DEE9 bold"
+pointer = "#88C0D0 bold"
+highlighted = "#2E3440 bg:#88C0D0 bold"
+instruction = "#616E88"
+text = "#D8DEE9"
+answer = "#A3BE8C bold"
+questionmark = "#88C0D0 bold"
